@@ -19,7 +19,7 @@
 1. Основные 
 1. Основные 
 
-![](//img/Dream.jpg)
+![](https://https://github.com/LayBrother/Diplom-test/img/Dream.jpg)
 
 
 

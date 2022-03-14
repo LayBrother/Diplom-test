@@ -19,7 +19,8 @@
 1. Основные 
 1. Основные 
 
-![](https://https://github.com/LayBrother/Diplom-test/img/Dream.jpg)
+![](https://github.com/LayBrother/Diplom-test/blob/master/img/Dream.jpg)
+
 
 
 
